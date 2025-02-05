@@ -1,6 +1,6 @@
 site_name: xiongdi's Site
 site_author: xiongdi
-site_url: https://kinnariyamamatanha.github.io
+site_url: https://asimfish.github.io
 site_description: xiongdi 的个人网站
 # repo_url: https://github.com/KinnariyaMamaTanha/kinnariyamamatanha.github.io/
 # repo_name: Kinnari's Site
@@ -172,10 +172,10 @@ extra:
       link: https://github.com/kinnariyamamatanha/
       name: GitHub
     - icon: /fontawesome/brands/qq
-      link: /img/qq.jpg
+      # link: /img/qq.jpg
       name: 加加我的QQ
     - icon: /fontawesome/brands/weixin
-      link: /img/wechat.jpg
+      # link: /img/wechat.jpg
       name: 加加我的微信
     - icon: /fontawesome/brands/x-twitter
       link: https://x.com/MamaTanha76294
@@ -193,19 +193,19 @@ extra:
     #   link: /feed_rss_updated.xml
     #   name: RSS updatedfeed_rss_created.xml
 
-  analytics:
-    provider: google
-    property: G-20LWGZNLLR
-    feedback:
-      title: Support Me!
-      ratings:
-        - icon: fontawesome/regular/hand-back-fist
-          name: Support Me!
-          data: 1
-          note: >-
-            <center> 难道说……你愿意给我买一瓶快乐水吗！🫣 </center>
-            <center> How about...buy me a coffee？😋 </center>
-            <img src="https://cdn.jsdelivr.net/gh/KinnariyaMamaTanha/Images@images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2024-12-07_230055_143.png" width=200px>
+  # analytics:
+  #   provider: google
+  #   property: G-20LWGZNLLR
+  #   feedback:
+  #     title: Support Me!
+  #     ratings:
+  #       - icon: fontawesome/regular/hand-back-fist
+  #         name: Support Me!
+  #         data: 1
+  #         note: >-
+  #           <center> 难道说……你愿意给我买一瓶快乐水吗！🫣 </center>
+  #           <center> How about...buy me a coffee？😋 </center>
+  #           <img src="https://cdn.jsdelivr.net/gh/KinnariyaMamaTanha/Images@images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2024-12-07_230055_143.png" width=200px>
 
 nav:
   - Home: index.md
